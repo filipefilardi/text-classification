@@ -34,3 +34,7 @@ Below you can see each newsgroup. Some of them are related (e.g. rec.sport.baseb
 - talk.politics.mideast
 - talk.politics.misc
 - talk.religion.misc
+
+## License
+
+This repository is licensed under [MIT License](LICENSE.md)
